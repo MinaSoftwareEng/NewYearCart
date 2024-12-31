@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("/images/sky.svg");
+  background-image: url("sky.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -25,12 +25,12 @@ body {
 }
 
 .fireworks_1 {
-  background-image: url('/images/image2.svg');
+  background-image: url('image2.svg');
   animation: fadeInOut1 9s infinite;
 }
 
 .fireworks_2 {
-  background-image: url('/images/image3.svg');
+  background-image: url('image3.svg');
   animation: fadeInOut2 9s infinite;
 }
 
