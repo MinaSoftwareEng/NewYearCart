@@ -100,18 +100,18 @@ body {
 }
 
 @keyframes fadeInOut1 {
-  0% { opacity: 0; }
+  0% { opacity: 1; }
   20% { opacity: 1; }
   40% { opacity: 1; }
-  60% { opacity: 1; }
+  60% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes fadeInOut2 {
-  0% { opacity: 0; }
-  20% { opacity: 0; }
+  0% { opacity: 1; }
+  20% { opacity: 1; }
+  40% { opacity: 1; }
   60% { opacity: 0; }
-  80% { opacity: 1; }
   100% { opacity: 0; }
 }
 
