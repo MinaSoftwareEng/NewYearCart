@@ -2,7 +2,7 @@
 
 Welcome to my animated New Year card project! 🎉
 
-You can view the card here: [a link](https://raw.githack.com/MinaSoftwareEng/NewYearCart/tree/main)
+You can view the card here: [a link](https://raw.githack.com/MinaSoftwareEng/NewYearCart/refs/heads/main/index.html)
 
 ## Features
 - Animated design
